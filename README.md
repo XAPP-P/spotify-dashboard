@@ -40,7 +40,7 @@ To run the dashboard locally:
 3. Run the Streamlit app:
 
    ```bash
-   streamlit run dashboard.py
+   streamlit run spotify_dashboard.py
    ```
 
 ## Contributors
